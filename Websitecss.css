@@ -1,0 +1,33 @@
+.intro{
+    border: blueviolet;
+    border-style: solid;
+    border-radius: 10px;
+    margin-left: 220px;
+    margin-right: 220px;
+
+}
+.list{
+    list-style-type: none;
+    align-items: center;
+}
+.websitemainscreenbkg{
+    background-color: cadetblue;
+}
+.schedule{
+    background-color: #0089ee;
+}
+.Likedsites{
+    background-color: aquamarine;
+}
+.laughpic{
+    alignment: center ;
+}
+.picpics{
+    align-items: center;
+}
+.gallery{
+    background-color: deepskyblue;
+}
+.resume2{
+    background-color: darkturquoise;
+}
